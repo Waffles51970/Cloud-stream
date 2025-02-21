@@ -1,7 +1,7 @@
 {
        "name": "CloudStream Extensions",
        "description": "Extensions for CloudStream",
-       "extensions": [
+       "extensions": [https://movies.nuxt.space//extension]
          {
            "name": "nux movies",
            "url": "https://movies.nuxt.space//extension"
