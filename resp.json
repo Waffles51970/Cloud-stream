@@ -1,10 +1,10 @@
 {
-       "name": "CloudStream Extensions",
-       "description": "Extensions for CloudStream",
-       "extensions": [https://movies.nuxt.space//extension]
-         {
-           "name": "nux movies",
-           "url": "https://movies.nuxt.space//extension"
-         }
-       
+   "name": "CloudStream Extensions",
+   "description": "Extensions for CloudStream",
+   "extensions": [
+      {
+         "name": "nux movies",
+         "url": "https://movies.nuxt.space//extension"
+      }
+   ]
 }
